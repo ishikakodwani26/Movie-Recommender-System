@@ -11,3 +11,4 @@ A content-based movie recommendation system built with Python and Streamlit. Sel
 Movie metadata is vectorized and compared using cosine similarity, precomputed offline into a similarity matrix. At runtime, the app looks up the selected movie's precomputed similarity scores, ranks them, fetches poster images for the top 5 matches via the TMDB API, and renders everything in a custom dark-themed UI.
 
 ## Live Demo
+https://movie-recommender-system-app0movie0.streamlit.app/
